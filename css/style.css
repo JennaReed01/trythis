@@ -1315,7 +1315,7 @@
 /* Footer */
 
 	#footer {
-		background: #f0f0f0;
+		background: img url(../images/footer.jpg);
 		padding: 4em 0 6em 0;
 		text-align: center;
 	}
